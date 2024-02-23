@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  cloudbeaver:
+  - apiVersion: v2
+    appVersion: v23.3.1
+    created: "2024-02-23T15:08:07.518876+01:00"
+    description: A Helm chart for Kubernetes to deploy cloudbeaver
+    digest: c46e8ca257c3cb5ab6a6229c75ea6574effde7bb8897fc0a1d153d01ec6c5406
+    keywords:
+    - cloudbeaver
+    - dbclient
+    maintainers:
+    - email: davi.barreto@tekkare.com
+      name: davi.barreto
+    name: cloudbeaver
+    urls:
+    - cloudbeaver-23.3.1.tgz
+    version: 23.3.1
+generated: "2024-02-23T15:08:07.511423+01:00"
